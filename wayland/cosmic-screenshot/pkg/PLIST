@@ -1,0 +1,11 @@
+@bin bin/cosmic-screenshot
+share/applications/com.system76.CosmicScreenshot.desktop
+share/icons/hicolor/128x128/apps/com.system76.CosmicScreenshot.svg
+share/icons/hicolor/16x16/apps/com.system76.CosmicScreenshot.svg
+share/icons/hicolor/24x24/apps/com.system76.CosmicScreenshot.svg
+share/icons/hicolor/256x256/apps/com.system76.CosmicScreenshot.svg
+share/icons/hicolor/32x32/apps/com.system76.CosmicScreenshot.svg
+share/icons/hicolor/48x48/apps/com.system76.CosmicScreenshot.svg
+share/icons/hicolor/64x64/apps/com.system76.CosmicScreenshot.svg
+@tag gtk-update-icon-cache %D/share/icons/hicolor
+@tag update-desktop-database
