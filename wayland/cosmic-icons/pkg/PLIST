@@ -1,4 +1,3 @@
-share/icons/
 share/icons/Cosmic/
 share/icons/Cosmic/index.theme
 share/icons/Cosmic/scalable/
@@ -681,3 +680,4 @@ share/icons/Cosmic/scalable/status/weather-showers-scattered-symbolic.svg
 share/icons/Cosmic/scalable/status/weather-showers-symbolic.svg
 share/icons/Cosmic/scalable/status/weather-snow-symbolic.svg
 share/icons/Cosmic/scalable/status/weather-storm-symbolic.svg
+@tag gtk-update-icon-cache %D/share/icons/Cosmic

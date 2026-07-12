@@ -15,6 +15,8 @@ MAINTAINER =	Laurent Cheylus <foxy@free.fr>
 # CC-BY-SA 4.0
 PERMIT_PACKAGE=	Yes
 
+RUN_DEPENDS =	x11/gtk+4,-guic
+
 NO_BUILD =	Yes
 NO_TEST =	Yes
 
