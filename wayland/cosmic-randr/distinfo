@@ -83,7 +83,7 @@ SHA256 (cargo/windows_x86_64_gnu-0.53.1.tar.gz) = nDhCzddKhlqAZqs5yKekc8B3ij8pNw
 SHA256 (cargo/windows_x86_64_gnullvm-0.53.1.tar.gz) = D/oXni0H7uitj1dJNDZWbHzDCsU2ozef3wCPR/a7euE=
 SHA256 (cargo/windows_x86_64_msvc-0.53.1.tar.gz) = 1rv/XwqtpCeh5abaXx+YFYGC8mVW80WsngTTbQ6+1lA=
 SHA256 (cargo/winnow-0.6.24.tar.gz) = yNcaWTzFxCrXh24sH9pW8xTzdUwIQSiDPmTxNF/4oDo=
-SHA256 (cosmic-randr-epoch-1.2.0.tar.gz) = HY91pKOqOG7UT1BR6qhSuHQudFmB6Y/06QPtA4Sxxhc=
+SHA256 (cosmic-randr-epoch-1.3.0.tar.gz) = 30oIJzJfRTI/NkYEjjUotregXxLT/Hc1P6iM+4YRj90=
 SIZE (cargo/anstream-0.6.21.tar.gz) = 29516
 SIZE (cargo/anstyle-1.0.13.tar.gz) = 17651
 SIZE (cargo/anstyle-parse-0.2.7.tar.gz) = 21707
@@ -169,4 +169,4 @@ SIZE (cargo/windows_x86_64_gnu-0.53.1.tar.gz) = 903712
 SIZE (cargo/windows_x86_64_gnullvm-0.53.1.tar.gz) = 787739
 SIZE (cargo/windows_x86_64_msvc-0.53.1.tar.gz) = 837950
 SIZE (cargo/winnow-0.6.24.tar.gz) = 165680
-SIZE (cosmic-randr-epoch-1.2.0.tar.gz) = 33996
+SIZE (cosmic-randr-epoch-1.3.0.tar.gz) = 34008
